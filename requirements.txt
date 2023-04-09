@@ -1,6 +1,5 @@
 Flask==2.2.3
 gunicorn==20.1.0
-h5py==2.12.0
 keras==2.12.0
 matplotlib==3.5.3
 opencv-python==4.7.0.72
