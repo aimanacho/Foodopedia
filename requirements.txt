@@ -15,7 +15,6 @@ ipykernel==6.16.2
 ipython==7.34.0
 itsdangerous==2.1.2
 jedi==0.18.2
-Jinja2 @ file:///C:/b/abs_7cdis66kl9/croot/jinja2_1666908141852/work
 joblib==1.2.0
 jupyter_core==4.12.0
 keras==2.10.0
