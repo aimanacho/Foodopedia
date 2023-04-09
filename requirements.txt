@@ -14,7 +14,7 @@ ipykernel==6.16.2
 ipython==7.34.0
 joblib==1.2.0
 jupyter_core==4.12.0
-keras==2.10.0
+keras==2.12.0
 libclang==16.0.0
 matplotlib==3.5.3
 opencv-python==4.7.0.72
@@ -26,8 +26,4 @@ scikit-learn==1.0.2
 seaborn==0.12.2
 sklearn==0.0.post1
 tensorboard==2.10.1
-tensorflow-estimator==2.10.0
-tensorflow-gpu==2.10.0
-tensorflow-hub==0.13.0
-tensorflow-intel==2.11.0
-tensorflow-io-gcs-filesystem==0.31.0
+tensorflow==2.12.0
