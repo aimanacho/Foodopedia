@@ -10,6 +10,10 @@ model = tf.keras.models.load_model(r'E:\NOTTS\Year 3\Final Year Project\Spring\F
 # Define a Flask app
 app = Flask(__name__)
 
+@app.route('/')
+def hello_world():
+    return 'HELLO MEOW'
+
 # Define an API endpoint for prediction
 @app.route('/predict', methods=['POST'])
 def predict():
